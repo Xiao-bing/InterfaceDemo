@@ -1,2 +1,7 @@
 this is my first github demo
+这是我第一次提交文件
+是的
+没有问题
+很高兴
+第二次终于成功了
 
