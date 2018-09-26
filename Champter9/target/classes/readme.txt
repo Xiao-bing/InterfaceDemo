@@ -1,0 +1,2 @@
+properties格式的文件都是key：value的形式的
+抽离配置文件
