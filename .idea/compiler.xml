@@ -6,11 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Champter10" />
         <module name="Champter5" />
+        <module name="Champter6" />
+        <module name="Champter9" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Champter5" target="1.5" />
+    <bytecodeTargetLevel target="8">
+      <module name="Champter10" target="1.8" />
+      <module name="Champter5" target="1.8" />
+      <module name="Champter6" target="1.5" />
+      <module name="Champter9" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
